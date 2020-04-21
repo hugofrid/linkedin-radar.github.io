@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/linkedin-radar.github.io.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/linkedin-radar.github.io.git/static/js/main.62e4ab65.chunk.js",
-    "main.js.map": "/linkedin-radar.github.io.git/static/js/main.62e4ab65.chunk.js.map",
-    "runtime-main.js": "/linkedin-radar.github.io.git/static/js/runtime-main.24f7a1ae.js",
-    "runtime-main.js.map": "/linkedin-radar.github.io.git/static/js/runtime-main.24f7a1ae.js.map",
-    "static/js/2.e4149104.chunk.js": "/linkedin-radar.github.io.git/static/js/2.e4149104.chunk.js",
-    "static/js/2.e4149104.chunk.js.map": "/linkedin-radar.github.io.git/static/js/2.e4149104.chunk.js.map",
-    "index.html": "/linkedin-radar.github.io.git/index.html",
-    "precache-manifest.386cad668537bb88db63a3d1e6f525a6.js": "/linkedin-radar.github.io.git/precache-manifest.386cad668537bb88db63a3d1e6f525a6.js",
-    "service-worker.js": "/linkedin-radar.github.io.git/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/linkedin-radar.github.io.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e4149104.chunk.js.LICENSE.txt": "/linkedin-radar.github.io.git/static/js/2.e4149104.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/linkedin-radar.github.io.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/linkedin-radar.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/linkedin-radar.github.io/static/js/main.84911e4f.chunk.js",
+    "main.js.map": "/linkedin-radar.github.io/static/js/main.84911e4f.chunk.js.map",
+    "runtime-main.js": "/linkedin-radar.github.io/static/js/runtime-main.73484d3e.js",
+    "runtime-main.js.map": "/linkedin-radar.github.io/static/js/runtime-main.73484d3e.js.map",
+    "static/js/2.e4149104.chunk.js": "/linkedin-radar.github.io/static/js/2.e4149104.chunk.js",
+    "static/js/2.e4149104.chunk.js.map": "/linkedin-radar.github.io/static/js/2.e4149104.chunk.js.map",
+    "index.html": "/linkedin-radar.github.io/index.html",
+    "precache-manifest.4c0f591f048bd894b96f4956dbfd0e0e.js": "/linkedin-radar.github.io/precache-manifest.4c0f591f048bd894b96f4956dbfd0e0e.js",
+    "service-worker.js": "/linkedin-radar.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/linkedin-radar.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e4149104.chunk.js.LICENSE.txt": "/linkedin-radar.github.io/static/js/2.e4149104.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/linkedin-radar.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.24f7a1ae.js",
+    "static/js/runtime-main.73484d3e.js",
     "static/js/2.e4149104.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.62e4ab65.chunk.js"
+    "static/js/main.84911e4f.chunk.js"
   ]
 }
