@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hugofrid.github.io/linkedin-radar.github.io.git",
   "name": "linkedin_radar",
+  "homepage": "http://hugofrid.github.io/linkedin-radar.github.io.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
