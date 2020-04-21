@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/linkedin-radar.github.io.git/precache-manifest.66df38c29902f2b47261678bedec5d1e.js"
+  "/linkedin-radar.github.io.git/precache-manifest.386cad668537bb88db63a3d1e6f525a6.js"
 );
 
 self.addEventListener('message', (event) => {
